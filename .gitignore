@@ -1,0 +1,17 @@
+# Ambiente e segredos
+.venv/
+.env
+
+# Dados e índices gerados (grandes, recriados pelos scripts)
+data/
+indexes/
+
+# Cache do Python
+__pycache__/
+
+# Versões antigas e testes
+*_old*.py
+test_*.py
+
+# Notas pessoais
+P2-EXPLICADO.md

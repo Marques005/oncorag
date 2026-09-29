@@ -1,0 +1,10 @@
+datasets
+pandas
+pyarrow
+numpy
+sentence-transformers
+bm25s
+openai
+python-dotenv
+matplotlib
+tqdm

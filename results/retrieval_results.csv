@@ -1,0 +1,7 @@
+method,recall@1,recall@5,recall@20,mrr,search_s
+bm25,0.872,0.956,0.976,0.909,0.194
+dense_general,0.883,0.972,0.986,0.923,2.783
+dense_biomed,0.923,0.979,0.992,0.949,14.335
+hybrid_bm25+general,0.915,0.974,0.986,0.942,3.118
+hybrid_bm25+biomed,0.933,0.977,0.989,0.953,15.29
+hybrid_biomed+rerank,0.941,0.982,0.989,0.96,874.228
